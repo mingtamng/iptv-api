@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mingtamng/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-13 06:29:23
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-13 18:39:01
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1439,6 +1439,8 @@ http://ls.qingting.fm/live/1099.m3u8
 https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
+https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="浙江民生.png" group-title="☘️浙江频道",浙江民生
 https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="浙江民生.png" group-title="☘️浙江频道",浙江民生
@@ -2321,6 +2323,8 @@ https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="苏州新闻综合.png" group-title="☘️江苏频道",苏州新闻综合
 https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
+#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="苏州新闻综合.png" group-title="☘️江苏频道",苏州新闻综合
+https://t.freetv.fun/live/su-zhou-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="苏州生活资讯.png" group-title="☘️江苏频道",苏州生活资讯
 https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="苏州生活资讯.png" group-title="☘️江苏频道",苏州生活资讯
