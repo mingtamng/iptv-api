@@ -3,7 +3,52 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://epg.pw/test_channels_hong_kong.m3u
+https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u
+https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
+https://live.iptv-free.com/iptv/languages/zho.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper-Ts.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
+https://chinaiptv.pages.dev/Multicast/guangdong/telecom.txt
+https://live.zbds.top/tv/iptv4.m3u
+https://live.zbds.top/tv/iptv6.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://sub.ottiptv.cc/huyayqk.m3u
+https://sub.ottiptv.cc/douyuyqk.m3u
+https://sub.ottiptv.cc/yylunbo.m3u
+https://sub.ottiptv.cc/bililive.m3u
+https://sub.ottiptv.cc/huyayqk.m3u
+https://sub.ottiptv.cc/douyuyqk.m3u
+https://sub.ottiptv.cc/yylunbo.m3u
+https://sub.ottiptv.cc/bililive.m3u
+https://live.hacks.tools/tv/iptv4.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Hunan.txt
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/index.m3u
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
+https://iptv-org.github.io/iptv/languages/zho.m3u
+https://iptv-org.github.io/iptv/countries/cn.m3u
+https://tv.iill.top/m3u/Gather
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/TaiWan.m3u8
 
 
 
